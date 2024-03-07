@@ -1,0 +1,10 @@
+{
+  "name": "liatisiwallet",
+  "version": "1.0.0",
+  "description": "Tracking Isi Wallet Kalian!",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/aangsetyat/liatisiwallet.git",
+  "author": "aangsetyat",
+  "license": "ISC"
+}
